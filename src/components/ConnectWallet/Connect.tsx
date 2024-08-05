@@ -1,6 +1,6 @@
 import * as React from 'react';
 import {Connector, useAccount, useChainId, useConnect} from 'wagmi';
-import Avatar from "@/components/Avatar";
+import {Avatar} from "@/components/Avatar";
 import {getWalletIcon} from "@/utils";
 import {message, Spin} from "antd";
 

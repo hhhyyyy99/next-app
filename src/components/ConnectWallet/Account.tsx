@@ -1,5 +1,5 @@
 import { useAccount, useDisconnect} from 'wagmi';
-import Avatar from "@/components/Avatar";
+import {Avatar} from "@/components/Avatar";
 import {copyText, shortenAddress} from "@/utils";
 import {Token} from "@/constants";
 import {getWalletIcon} from "@/utils";

@@ -7,7 +7,7 @@ interface AvatarProps {
   size?: number;
   onClick?: () => void;
 }
-const Avatar = (props:AvatarProps)=>{
+export const Avatar = (props:AvatarProps)=>{
   const {url, name,size,onClick} = props;
   const sizeMemo = useMemo(()=> size || 38, [size])
   if(url){
@@ -18,4 +18,3 @@ const Avatar = (props:AvatarProps)=>{
     return <AntdAvatar size={sizeMemo} onClick={onClick}>{show}</AntdAvatar>
   }
 }
-export default Avatar;
