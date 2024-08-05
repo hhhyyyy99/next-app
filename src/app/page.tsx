@@ -1,12 +1,11 @@
 import Header from "@/components/Header";
-import { Button } from 'antd';
+import MainContent from "@/components/MainContent";
 
 export default function Home() {
   return (
    <main>
      <Header/>
-     <div>我是内容</div>
-     <Button type="primary">按钮</Button>
+     <MainContent/>
    </main>
   );
 }

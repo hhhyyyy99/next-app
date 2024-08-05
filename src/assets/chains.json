@@ -1,0 +1,12 @@
+[
+  {
+    "chainId": "56",
+    "chainName": "BSC",
+    "chainIcon": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/bsc.svg"
+  },
+  {
+    "chainId": "919",
+    "chainName": "Spider",
+    "chainIcon": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/bsc.svg"
+  }
+]
