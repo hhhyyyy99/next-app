@@ -1,0 +1,121 @@
+{
+  "navbar": {
+    "welcome": {
+      "title": "Temukan rute terbaik",
+      "subtitle": "<0>4x diaudit</0> agregator likuiditas multi-rantai yang didukung oleh <1>LI.FI</1>",
+      "cta": "Memulai"
+    },
+    "poweredByLifi": "<0>Dipersembahkan oleh </0><1>LI.FI</1>",
+    "links": {
+      "exchange": "Pertukaran",
+      "dashboard": "Dasbor",
+      "refuel": "Gas",
+      "buy": "Beli"
+    },
+    "statsCards": {
+      "dexs": "DEX",
+      "bridges": "Bridge",
+      "chains": "Jaringan"
+    },
+    "connect": "Hubungkan",
+    "walletSelectMenu": {
+      "connectWallet": "Hubungkan ke wallet",
+      "wallets": "Dompet",
+      "ecosystemSelectMenu": {
+        "selectEcosystem": "Pilih ekosistem dompet",
+        "noEcosystemAdapter": "Tidak ditemukan adaptor ekosistem yang sesuai"
+      }
+    },
+    "seeAllWallets": "Lihat semua dompet",
+    "navbarMenu": {
+      "brandAssets": "Merek Aset",
+      "theme": "Tema",
+      "developers": "Para Pengembang",
+      "lifiExplorer": "LI.FI Scan",
+      "aboutLIFI": "Tentang LI.FI",
+      "support": "Bantuan",
+      "profile": "Profil Jumper"
+    },
+    "walletMenu": {
+      "disconnect": "Tidak terkoneksi",
+      "chains": "Jaringan",
+      "switchChain": "Pindah Jaringan",
+      "copy": "Salin",
+      "explore": "Jelajah",
+      "copiedMsg": "Alamat dompet disalin",
+      "walletNotInstalled": "{{wallet}} belum terinstall",
+      "connectAnotherWallet": "Hubungkan dompet yang lain"
+    },
+    "themes": {
+      "switchToLight": "Beralih ke Tema Terang",
+      "switchToDark": "Beralih ke Tema Gelap",
+      "switchToSystem": "Beralih ke Sistem"
+    },
+    "developers": {
+      "github": "GitHub",
+      "documentation": "Dokumentasi"
+    }
+  },
+  "discordBanner": {
+    "ctaHeadline": "Gabung ke Discord untuk mengetahui lebih lanjut",
+    "ctaButton": "Bergabunglah ke Discord kami"
+  },
+  "blog": {
+    "title": "Tips dan tutorial",
+    "categories": "Kategori",
+    "allCategories": "Semua",
+    "subtitle": "TL;DR panduan langkah demi langkah tentang DeFi dan kripto untuk semua level",
+    "minRead": "{{minRead}} min baca",
+    "seeAllPosts": "Lihat semua pos",
+    "recentPosts": "Pos terbaru",
+    "similarPosts": "Posting yang Mirip",
+    "goToArticle": "Pergi ke artikel",
+    "openApp": "Buka Aplikasi",
+    "faq": "Pertanyaan Umum (FAQ)",
+    "jumperCta": "Coba jumper.exchange",
+    "copiedLink": "Tautan yang Disalin",
+    "shareLinkedIn": "Bagi artikel di LinkedIn",
+    "shareFb": "Bagi artikel di Facebook",
+    "shareX": "Bagi artikel di X",
+    "shareLink": "Bagikan tautan"
+  },
+  "solanaAlert": {
+    "title": "Dukungan token Solana terbatas",
+    "subtitle": "Saat ini hanya USDC dan USDT yang dapat dijembatani ke dan dari Solana."
+  },
+  "featureCard": {
+    "learnMore": "Pelajari lebih lanjut"
+  },
+  "button": {
+    "okay": "Oke"
+  },
+  "error": {
+    "message": "Ada yang salah. Silakan coba memuat ulang halaman tersebut. Jika masalah terus berlanjut, hubungi dukungan kami."
+  },
+  "multisig": {
+    "connected": {
+      "title": "Dompet multisig terhubung",
+      "description": "Harap beri tahu peserta dompet lainnya untuk siap menandatangani."
+    },
+    "transactionInitiated": {
+      "title": "Dibutuhkan banyak tanda tangan",
+      "description": "Harap beri tahu peserta dalam dompet multisig lainnya untuk menandatangani sebelum transaksi berakhir."
+    },
+    "alert": {
+      "title": "Dompet multisig terhubung",
+      "description": "Alamat dompet tujuan diperlukan untuk menyelesaikan pertukaran."
+    }
+  },
+  "questCard": {
+    "completed": "Selesai",
+    "join": "Gabung"
+  },
+  "missions": {
+    "available": "Misi yang tersedia",
+    "completed": "Misi yang telah selesai"
+  },
+  "profile_page": {
+    "mobileTitle": "",
+    "mobileDescription": ""
+  }
+}

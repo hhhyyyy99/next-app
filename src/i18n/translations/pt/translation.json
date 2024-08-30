@@ -1,0 +1,121 @@
+{
+  "navbar": {
+    "welcome": {
+      "title": "Encontre a melhor rota",
+      "subtitle": "Agregador de liquidez multi-cadeias <0>4x auditado</0> fornecido pela <1>LI.FI</1>",
+      "cta": "Começar"
+    },
+    "poweredByLifi": "<0>Desenvolvido por </0><1>LI.FI</1>",
+    "links": {
+      "exchange": "Conversão",
+      "dashboard": "Painel de controle",
+      "refuel": "Gás",
+      "buy": "Comprar"
+    },
+    "statsCards": {
+      "dexs": "DEXs",
+      "bridges": "Pontes",
+      "chains": "Cadeias"
+    },
+    "connect": "Conectar",
+    "walletSelectMenu": {
+      "connectWallet": "Conectar uma carteira",
+      "wallets": "Carteiras",
+      "ecosystemSelectMenu": {
+        "selectEcosystem": "Selecione o ecossistema da carteira",
+        "noEcosystemAdapter": "Não foi encontrado nenhum adaptador de ecossistema adequado"
+      }
+    },
+    "seeAllWallets": "Ver todas as carteiras",
+    "navbarMenu": {
+      "brandAssets": "Ativos da marca",
+      "theme": "Tema",
+      "developers": "Desenvolvedores",
+      "lifiExplorer": "Explorador LI.FI",
+      "aboutLIFI": "Sobre a LI.FI",
+      "support": "Suporte",
+      "profile": "Perfil Jumper"
+    },
+    "walletMenu": {
+      "disconnect": "Desconectar",
+      "chains": "Cadeias",
+      "switchChain": "Trocar Cadeia",
+      "copy": "Copiar",
+      "explore": "Explorar",
+      "copiedMsg": "Endereço da carteira copiado",
+      "walletNotInstalled": "{{wallet}} não está instalada",
+      "connectAnotherWallet": "Conectar outra carteira"
+    },
+    "themes": {
+      "switchToLight": "Mudar para o Modo Claro",
+      "switchToDark": "Mudar para o Modo Escuro",
+      "switchToSystem": "Alternar para sistema"
+    },
+    "developers": {
+      "github": "GitHub",
+      "documentation": "Documentação"
+    }
+  },
+  "discordBanner": {
+    "ctaHeadline": "Entre no nosso Discord para saber mais",
+    "ctaButton": "Entre no nosso Discord"
+  },
+  "blog": {
+    "title": "Dicas e tutoriais",
+    "categories": "Categorias",
+    "allCategories": "Tudo",
+    "subtitle": "Resumo: guias com passo-a-passo para DeFi e cripto para todos os níveis",
+    "minRead": "{{minRead}} leitura mínima",
+    "seeAllPosts": "Ver todas as publicações",
+    "recentPosts": "Publicações recentes",
+    "similarPosts": "Publicações semelhantes",
+    "goToArticle": "Ir para o artigo",
+    "openApp": "Abrir aplicativo",
+    "faq": "FAQ (Perguntas Mais Frequentes)",
+    "jumperCta": "Tente jumper.exchange",
+    "copiedLink": "Link copiado",
+    "shareLinkedIn": "Compartilhar artigo no LinkedIn",
+    "shareFb": "Compartilhar artigo no Facebook",
+    "shareX": "Compartilhar artigo no X",
+    "shareLink": "Compartilhar o link"
+  },
+  "solanaAlert": {
+    "title": "Suporte limitado ao token Solana",
+    "subtitle": "No momento, apenas USDC e USDT podem ser enviados para e a partir da rede Solana."
+  },
+  "featureCard": {
+    "learnMore": "Saiba mais"
+  },
+  "button": {
+    "okay": "Ok"
+  },
+  "error": {
+    "message": "Algo deu errado. Por favor, tente recarregar a página. Se o problema persistir, entre em contato com nosso suporte."
+  },
+  "multisig": {
+    "connected": {
+      "title": "Carteira Multisig conectada",
+      "description": "Por favor, notifique os outros participantes da carteira para estarem prontos para assinarem."
+    },
+    "transactionInitiated": {
+      "title": "São necessárias múltiplas assinaturas",
+      "description": "Por favor, notifique os outros participantes da carteira multisig para assinarem antes que a transação expire."
+    },
+    "alert": {
+      "title": "Carteira multisig conectada",
+      "description": "O endereço da carteira de destino é necessário para completar a conversão."
+    }
+  },
+  "questCard": {
+    "completed": "Concluído",
+    "join": "Entrar"
+  },
+  "missions": {
+    "available": "Missões Disponíveis",
+    "completed": "Missões Concluídas"
+  },
+  "profile_page": {
+    "mobileTitle": "Disponível apenas no Computador",
+    "mobileDescription": "A página do Perfil Jumper ainda não está disponível em telas pequenas. Estamos trabalhando nisso."
+  }
+}
