@@ -21,6 +21,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${inter.className} bg-purple-default`}>
+      {/*{children}*/}
       <WalletProvider>
         <ReactQueryProvider>
           <ThemeProvider>

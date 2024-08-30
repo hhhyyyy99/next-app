@@ -1,10 +1,10 @@
 import React from 'react';
 
-const MainContent = () => {
+const MainContent = ({children}:{children:React.ReactNode}) => {
   return (
     <main className="md:p-4">
       <section className="container mx-auto flex justify-center">
-        <div>内容</div>
+        {children}
       </section>
     </main>
   );
