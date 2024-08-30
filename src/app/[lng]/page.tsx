@@ -7,6 +7,6 @@ import {useTranslation} from "react-i18next";
 export default function Home() {
   const { t } = useTranslation();
   return <AppLayout>
-    <div>{t("navbar.welcome.title")}</div>
+    <div>{t("welcome")}</div>
   </AppLayout>
 }
