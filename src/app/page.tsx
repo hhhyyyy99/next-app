@@ -5,9 +5,9 @@ import Link from "next/link";
 export default function Home() {
   const t = useTranslations('HomePage');
   return <AppLayout>
-    <div>{t('HomePage.title')}</div>
+    <div>{t('title')}</div>
     <Link href={"/about"}>
-      <button>{t('HomePage.about')}</button>
+      <button>{t('about')}</button>
     </Link>
   </AppLayout>
 }
