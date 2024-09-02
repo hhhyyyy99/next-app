@@ -2,5 +2,14 @@
   "HomePage": {
     "title": "Hello world!",
     "about": "Go to the about page"
+  },
+  "Header": {
+    "language": "language",
+    "change": "exchange",
+    "changeLanguage": "Switch language"
+  },
+  "AboutPage": {
+    "title": "About us",
+    "description": "This is a description of our page"
   }
 }

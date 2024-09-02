@@ -4,8 +4,6 @@ import {useAccount} from "wagmi";
 
 const ProfilePage = () => {
   const {isConnected} = useAccount()
-  return <AppLayout>
-    <div>profile page{isConnected? "connected" : "not connected"}</div>
-  </AppLayout>
+  return <div>profile page{isConnected? "connected" : "not connected"}</div>
 }
 export default ProfilePage;

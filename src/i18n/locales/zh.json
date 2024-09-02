@@ -2,5 +2,14 @@
   "HomePage": {
     "title": "你好世界!",
     "about": "转到about页面"
+  },
+  "Header": {
+    "language": "语言",
+    "change": "切换",
+    "changeLanguage": "切换语言"
+  },
+  "AboutPage": {
+    "title": "关于我们",
+    "description": "这是关于我们页面的描述"
   }
 }

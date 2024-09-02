@@ -1,13 +1,8 @@
-import AppLayout from "@/components/Layout";
-import {useTranslations} from 'next-intl';
-import Link from "next/link";
+"use client"
+import { redirect } from 'next/navigation';
+import {defaultLocale} from "@/i18n/config";
 
-export default function Home() {
-  const t = useTranslations('HomePage');
-  return <AppLayout>
-    <div>{t('title')}</div>
-    <Link href={"/about"}>
-      <button>{t('about')}</button>
-    </Link>
-  </AppLayout>
+export default function RootPage () {
+  // 将用户重定向到默认语言路径
+  redirect(`/${defaultLocale}`);
 }
